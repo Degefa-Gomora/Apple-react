@@ -1,8 +1,7 @@
 import React from 'react';
-import appleTVLogo from './commonResource/images/icons/apple-tv-logo.png'; // Correct import
-import tvShowLogo from "./commonResource/images/home/banker.png"; // Correct import
-import watchSeriesLogo from "./commonResource/images/icons/watch-series5-logo.png"; // Correct import
-
+import appleTVLogo from '../commonResource/images/icons/apple-tv-logo.png'; // Correct import
+import tvShowLogo from "../commonResource/images/home/banker.png"; // Correct import
+import watchSeriesLogo from "../commonResource/images/icons/watch-series5-logo.png"; // Correct import
 const SectionFive = () => {
     return (
       <div>

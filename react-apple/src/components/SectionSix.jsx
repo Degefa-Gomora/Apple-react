@@ -1,5 +1,5 @@
 import React from 'react';
-import arCade from "./commonResource/images/icons/arcade.png"; // Correct import
+import arCade from "../commonResource/images/icons/arcade.png"; // Correct import
 
 
 const SectionSix = () => {
