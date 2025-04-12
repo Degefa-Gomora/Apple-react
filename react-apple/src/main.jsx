@@ -15,11 +15,12 @@ import SectionSix from "./SectionSix.jsx";
 // import "bootstrap/dist/css/bootstrap.min.css";
 
 // // Import Bootstrap JavaScript (for components like navbar toggler)
-// import "bootstrap/dist/js/bootstrap.bundle.min.js";
+import "bootstrap/dist/js/bootstrap.bundle.min.js";
 // // import $ from "jquery"; // Import jQuery (optional, only if needed)
 import "./commonResource/css/bootstrap.css";
 import "./commonResource/css/styles.css";
 // import "./commonResource/js/bootstrap.js";
+// import "./commonResource/js/custom.js"
 
 
 
